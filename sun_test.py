@@ -1,9 +1,10 @@
+import time
+
 def hello_add(a, b):
-  
-  import time
-  
+
   sum_result = a + b
+
+  print(computing, wait one second ..)
+  time.sleep(1)
   
-  time.sleep(3)
-  
-  print(sum_result)
+  return sum_result
