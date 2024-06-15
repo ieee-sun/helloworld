@@ -29,8 +29,36 @@ Testing the first repo
 > - Step 2: in `./serve`, make an `app.py` file that calls appropriate code to expose your ML project as an API. 
 > - Endpoints can load, train, predict and otherwise serve your project.
 
+---
+### Q -  train-test splitting and evaluate performance metrics when creating a recommender system using collaborative filtering?
 
+Answer by MIT expert:
 
+> There are two main approaches to consider:
+> 
+> **Holdout**: This is the simplest method. Split your data into training and testing sets (common split is 80/20). Train your model on the training set and evaluate its performance on the unseen testing set.
+> 
+> **Cross-Validation**: This is a more robust approach. Divide your data into several folds (e.g., 10 folds). Train your model on all folds except one (validation fold), and evaluate on the validation fold. Repeat this process for each fold, averaging the results for a more reliable estimate.
+> 
+> #### Important Considerations:
+> 
+> **User-based** vs. **Item-based Splitting**: Decide whether to split by users or items. User-based splitting ensures users have interactions in both sets, but might not expose the model to unseen items. Item-based splitting can handle unseen items, but users might not have interactions in both sets.
+> 
+> **Cold Start Problem**: New users or items might not have enough data in the training set for accurate recommendations. Consider alternative approaches like item popularity or content-based filtering for these cases.
+> 
+> Here are some common metrics used to evaluate recommender systems:
+> 
+> **Root Mean Squared Error** (RMSE): Measures the average magnitude of the difference between predicted and actual ratings.
+> 
+> **Mean Absolute Error** (MAE): Similar to RMSE but uses absolute differences.
+> 
+> `Precision@k` and `Recall@k`: Measure how many relevant items are recommended among the top k recommendations.
+> 
+> **Normalized Discounted Cumulative Gain** (NDCG): Measures the ranking quality of recommendations, considering items with higher relevance being positioned higher.
+> 
+> #### Choosing the Right Metric:
+> 
+> The best metric depends on your specific goals. RMSE and MAE are good for predicting ratings, while `Precision@k` and `Recall@k` are better for capturing relevance. NDCG prioritizes highly relevant items.
 
 ---
 > ###### Prepared by:
