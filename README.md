@@ -60,6 +60,30 @@ Answer by MIT expert:
 > 
 > The best metric depends on your specific goals. RMSE and MAE are good for predicting ratings, while `Precision@k` and `Recall@k` are better for capturing relevance. NDCG prioritizes highly relevant items.
 
+
+### INFO - Python and Data Sciences YouTube Channels
+
+1. [Data Analysis Using SPSS (49 videos)](https://lnkd.in/dE8e7H8R)
+2. [Data Analysis Using Jamovi (26 videos)](https://lnkd.in/d4d_w9NR)
+3. [Data Analysis Using Smart PLS-4 (35 videos)](https://lnkd.in/d-ZJ-Vkr)
+4. [Time Series Analysis Using Eviews-12 (32 videos)](https://lnkd.in/dNthyy55)
+5. [Panel Data Analysis Using Eviews-12 (25 videos)](https://lnkd.in/d2-KKKxV)
+6. [Data Analysis Using Python (37 videos)](https://lnkd.in/dX8HDdxC)
+7. [Data Analysis Using Rapidminer (70 videos)](https://lnkd.in/dpNTfA_X)
+8. [Data Science Using R and R-Studio (28 videos)](https://lnkd.in/ddqQVHTg)
+9. [Structural Equation Modeling using Smart PLS (22 videos)](https://lnkd.in/df2dzu7d)
+10. [Qualitative Data Analysis in Nvivo (17 videos)](https://lnkd.in/deXZacwp)
+11. [Machine Learning Using Python (15 videos)](https://lnkd.in/dDRMzzCT)
+12. [Structural Equation Modelling using ADANCO (15 videos)](https://lnkd.in/d4EDmhdk)
+13. [Data Visualization using Tableau (100 videos)](https://lnkd.in/dctQQjey)
+14. [Data Analysis Using KNIME (139 videos)](https://lnkd.in/dp-GnY2C)
+15. [Structural Equation Modeling using IBM SPSS AMOS](https://lnkd.in/d2dSKc7i)
+16. [Artificial Intelligence (AI) Tools in Research](https://lnkd.in/dV5r56rW)
+17. [Data Analysis Using Alteryx](https://lnkd.in/dHBaF-Zf)
+18. [Data Analysis Using Excel](https://lnkd.in/dj9BbNjB)
+19. [Data Analysis Using Power BI](https://lnkd.in/dPRQicV5)
+
+
 ---
 > ###### Prepared by:
 > ###### Sun CHUNG, *SMIEEE* M.Sc. HKU
