@@ -83,6 +83,9 @@ Answer by MIT expert:
 18. [Data Analysis Using Excel](https://lnkd.in/dj9BbNjB)
 19. [Data Analysis Using Power BI](https://lnkd.in/dPRQicV5)
 
+### Text operations Tutorial
+###### by U of Penn. Library:
+> https://guides.library.upenn.edu/penntdm/API
 
 ---
 > ###### Prepared by:
